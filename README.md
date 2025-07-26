@@ -12,8 +12,7 @@ This is a starter HTML/CSS template for a job seeker portfolio. It's designed fo
 - Contact Info
 
 ## Live Preview
-
-Once uploaded to GitHub, this can be hosted via GitHub Pages for public viewing.
+https://heather-kinney.github.io/Portfolio_template_jobseeker/
 
 ## Customization
 
