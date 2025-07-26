@@ -69,11 +69,3 @@ footer {
     font-size: 0.9em;
     color: #777;
 }
-"""
-
-# Save updated files
-with open(html_path, "w") as f:
-    f.write(updated_html)
-
-with open(css_path, "w") as f:
-    f.write(updated_css)
